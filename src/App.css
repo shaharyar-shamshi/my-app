@@ -36,3 +36,9 @@
 .bold {
   font-weight: bold
 }
+.App button {
+  border: 1px solid red;
+  padding: 16px;
+  background-color: blue
+
+}

@@ -4,3 +4,9 @@
     border: 1px solid #eee;
 
 }
+.bold {
+    font-weight: bold
+}
+.red {
+    color: red
+}
